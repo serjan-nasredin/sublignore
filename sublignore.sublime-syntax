@@ -1,0 +1,25 @@
+%YAML 1.2
+---
+name: Sublime Ignore
+file_extensions: [sublignore]
+scope: source.sublignore
+
+contexts:
+  main:
+    - include: comment
+    - include: punctuation
+    - include: pattern
+
+  comment:
+    - match: '(\#.*$\n?)'
+      scope: comment.sublignore
+
+  punctuation:
+    - match: \/
+      scope: meta.path.sublignore
+    - match: \*
+      scope: punctuation.separator.sublignore
+
+  pattern:
+    - match: .*
+      scope: string.unquoted.sublignore

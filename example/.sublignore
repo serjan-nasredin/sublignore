@@ -1,0 +1,5 @@
+# Sublime Text pattern exclusion file.
+node_modules/
+*.log
+.DS_Store
+{1..3}.txt
