@@ -3,12 +3,12 @@
 <div align="center">
     <figure>
         <img type="image/png"
-            src="https://raw.githubusercontent.com/snxx-lppxx/subignore/master/screenshots/dark-theme.png" alt="Dark Theme"/>
+            src="https://raw.githubusercontent.com/snxx-lppxx/sublignore/master/screenshots/dark-theme.png" alt="Dark Theme"/>
         <figcaption>Sublime Ignore highlight in dark theme</figcaption>
     </figure>
     <figure>
         <img type="image/png"
-            src="https://raw.githubusercontent.com/snxx-lppxx/subignore/master/screenshots/light-theme.png" alt="Light Theme"/>
+            src="https://raw.githubusercontent.com/snxx-lppxx/sublignore/master/screenshots/light-theme.png" alt="Light Theme"/>
         <figcaption>Sublime Ignore highlight in light theme</figcaption>
     </figure>
 </div>
